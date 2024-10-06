@@ -1,0 +1,1 @@
+gcc main.c matrix.c matrix.h -o main.exe
